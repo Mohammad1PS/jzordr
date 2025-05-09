@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<!-- saved from url=(0211)https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html -->
+<html lang="ar" dir="rtl"><div id="in-page-channel-node-id" data-channel-name="in_page_channel_Yem7fd"></div><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عيادة جذور لطب الأسنان | احجز موعدك الآن</title>
+    <link href="./عيادة جذور لطب الأسنان _ احجز موعدك الآن_files/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./عيادة جذور لطب الأسنان _ احجز موعدك الآن_files/all.min.css">
+    <link href="./عيادة جذور لطب الأسنان _ احجز موعدك الآن_files/css2" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Tajawal', sans-serif;
+            scroll-behavior: smooth;
+        }
+        .gradient-bg {
+            background: linear-gradient(135deg, #0d6efd 0%, #0dcaf0 100%);
+        }
+        .service-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+        }
+        .service-icon {
+            transition: all 0.3s ease;
+        }
+        .service-card:hover .service-icon {
+            transform: scale(1.1);
+        }
+        .appointment-form input, .appointment-form select, .appointment-form textarea {
+            direction: rtl;
+        }
+    </style>
+<style>
+    .genspark-badge-button {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #333;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      padding: 8px 12px;
+      font-size: 12px;
+      cursor: pointer;
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    
+    .genspark-modal {
+      display: none;
+      position: fixed;
+      bottom: 80px;
+      right: 20px;
+      z-index: 10000;
+      justify-content: end;
+    }
+    
+    .genspark-modal-content {
+      background-color: white;
+      border-radius: 8px;
+      max-width: 450px;
+      width: 100%;
+      box-sizing: border-box;
+      padding: 20px;
+      position: relative;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      font-size: 14px;
+    }
+    @media (max-width: 768px) {
+      .genspark-modal-content {
+        max-width: 90%;
+      }
+    }
+    
+    .genspark-close {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 20px;
+      cursor: pointer;
+      background: none;
+      border: none;
+    }
+    
+    .genspark-title {
+      margin-bottom: 8px;
+      font-weight: normal;
+      display: inline;
+      font-size: 14px;
+    }
+    
+    .genspark-report {
+      color: #909499;
+      text-decoration: underline;
+      cursor: pointer;
+      margin-bottom: 14px;
+      display: inline;
+    }
+    
+    .genspark-info {
+      margin: 25px 0;
+      color: #333;
+      font-size: 14px;
+    }
+    
+    .genspark-buttons {
+      display: flex;
+      gap: 10px;
+    }
+    
+    .genspark-remove-btn {
+      background-color: #f5f5f5;
+      border: 1px solid #ddd;
+      color: #333;
+      padding: 4px 14px;
+      border-radius: 8px;
+      cursor: pointer;
+      flex: 1;
+      font-size: 14px;
+      box-sizing: border-box;
+    }
+    
+    .genspark-go-btn {
+      background-color: #222;
+      border: none;
+      color: white;
+      padding: 4px 14px;
+      border-radius: 8px;
+      cursor: pointer;
+      flex: 1;
+      font-size: 14px;
+      box-sizing: border-box;
+    }
+  </style><style>@keyframes slide-in-one-tap {
+  from {
+    transform: translateY(80px);
+  }
+  to {
+    transform: translateY(0px);
+  }
+}
+
+.trust-hide-gracefully {
+  opacity: 0;
+}
+
+.trust-wallet-one-tap .hidden {
+    display: none;
+  }
+
+.trust-wallet-one-tap .semibold {
+    font-weight: 500;
+  }
+
+.trust-wallet-one-tap .binance-plex {
+    font-family: 'Binance';
+  }
+
+.trust-wallet-one-tap .rounded-full {
+    border-radius: 50%;
+  }
+
+.trust-wallet-one-tap .flex {
+    display: flex;
+  }
+
+.trust-wallet-one-tap .flex-col {
+    flex-direction: column;
+  }
+
+.trust-wallet-one-tap .items-center {
+    align-items: center;
+  }
+
+.trust-wallet-one-tap .space-between {
+    justify-content: space-between;
+  }
+
+.trust-wallet-one-tap .justify-center {
+    justify-content: center;
+  }
+
+.trust-wallet-one-tap .w-full {
+    width: 100%;
+  }
+
+.trust-wallet-one-tap .box {
+    transition: all 0.5s cubic-bezier(0, 0, 0, 1.43);
+    animation: slide-in-one-tap 0.5s cubic-bezier(0, 0, 0, 1.43);
+    width: 384px;
+    border-radius: 15px;
+    background: #fff;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    z-index: 1020;
+  }
+
+.trust-wallet-one-tap .header {
+    gap: 15px;
+    border-bottom: 1px solid #e6e6e6;
+    padding: 10px 18px;
+  }
+
+.trust-wallet-one-tap .header .left-items {
+      gap: 15px;
+    }
+
+.trust-wallet-one-tap .header .title {
+      color: #1e2329;
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 28px;
+    }
+
+.trust-wallet-one-tap .header .subtitle {
+      color: #474d57;
+      font-size: 14px;
+      line-height: 20px;
+    }
+
+.trust-wallet-one-tap .header .close {
+      color: #1e2329;
+      cursor: pointer;
+    }
+
+.trust-wallet-one-tap .body {
+    padding: 9px 18px;
+    gap: 10px;
+  }
+
+.trust-wallet-one-tap .body .right-items {
+      gap: 10px;
+      width: 100%;
+    }
+
+.trust-wallet-one-tap .body .right-items .wallet-title {
+        color: #1e2329;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 20px;
+      }
+
+.trust-wallet-one-tap .body .right-items .wallet-subtitle {
+        color: #474d57;
+        font-size: 14px;
+        line-height: 20px;
+      }
+
+.trust-wallet-one-tap .connect-indicator {
+    gap: 15px;
+    padding: 8px 0;
+  }
+
+.trust-wallet-one-tap .connect-indicator .flow-icon {
+      color: #474d57;
+    }
+
+.trust-wallet-one-tap .loading-color {
+    color: #fff;
+  }
+
+.trust-wallet-one-tap .button {
+    border-radius: 50px;
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+    background-color: rgb(5, 0, 255);
+    border-color: rgb(229, 231, 235);
+    cursor: pointer;
+    text-align: center;
+    height: 45px;
+  }
+
+.trust-wallet-one-tap .button .button-text {
+      color: #fff;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 20px;
+    }
+
+.trust-wallet-one-tap .footer {
+    margin: 20px 30px;
+  }
+
+.trust-wallet-one-tap .check-icon {
+    color: #fff;
+  }
+
+@font-face {
+  font-family: 'Binance';
+  src: url(chrome-extension://egjidjbpglichdcondbcbdnbeeppgdph/fonts/BinancePlex-Regular.otf) format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Binance';
+  src: url(chrome-extension://egjidjbpglichdcondbcbdnbeeppgdph/fonts/BinancePlex-Medium.otf) format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Binance';
+  src: url(chrome-extension://egjidjbpglichdcondbcbdnbeeppgdph/fonts/BinancePlex-SemiBold.otf) format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+</style></head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="bg-white shadow-md sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-3">
+            <div class="flex justify-between items-center">
+                <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#" class="flex items-center">
+                    <i class="fas fa-tooth text-3xl text-blue-600 mr-2"></i>
+                    <h1 class="text-2xl font-bold text-gray-800">عيادة جذور لطب الأسنان</h1>
+                </a>
+                <nav class="hidden md:flex space-x-8 space-x-reverse">
+                    <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#home" class="text-gray-700 hover:text-blue-600 px-3 py-2 text-lg font-medium">الرئيسية</a>
+                    <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#about" class="text-gray-700 hover:text-blue-600 px-3 py-2 text-lg font-medium">من نحن</a>
+                    <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#services" class="text-gray-700 hover:text-blue-600 px-3 py-2 text-lg font-medium">خدماتنا</a>
+                    <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#appointment" class="text-gray-700 hover:text-blue-600 px-3 py-2 text-lg font-medium">حجز موعد</a>
+                    <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#contact" class="text-gray-700 hover:text-blue-600 px-3 py-2 text-lg font-medium">اتصل بنا</a>
+                </nav>
+                <div class="md:hidden">
+                    <button id="mobile-menu-button" class="text-gray-600 hover:text-blue-600">
+                        <i class="fas fa-bars text-2xl"></i>
+                    </button>
+                </div>
+            </div>
+            <div id="mobile-menu" class="md:hidden hidden mt-3 pb-2">
+                <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#home" class="block text-gray-700 hover:text-blue-600 py-2 text-lg font-medium">الرئيسية</a>
+                <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#about" class="block text-gray-700 hover:text-blue-600 py-2 text-lg font-medium">من نحن</a>
+                <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#services" class="block text-gray-700 hover:text-blue-600 py-2 text-lg font-medium">خدماتنا</a>
+                <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#appointment" class="block text-gray-700 hover:text-blue-600 py-2 text-lg font-medium">حجز موعد</a>
+                <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#contact" class="block text-gray-700 hover:text-blue-600 py-2 text-lg font-medium">اتصل بنا</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="gradient-bg py-16 md:py-24">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-col md:flex-row items-center">
+                <div class="md:w-1/2 text-white text-center md:text-right">
+                    <h1 class="text-4xl md:text-5xl font-bold mb-4">ابتسامة جميلة تدوم مدى الحياة</h1>
+                    <p class="text-xl mb-6">نقدم أفضل خدمات طب الأسنان في العيزرية والقدس بأيدي أمهر الأطباء وأحدث التقنيات</p>
+                    <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#appointment" class="inline-block bg-white text-blue-600 font-bold py-3 px-6 rounded-full hover:bg-gray-100 transition duration-300">احجز موعدك الآن</a>
+                </div>
+                <div class="md:w-1/2 mt-10 md:mt-0 flex justify-center">
+                    <div class="rounded-full bg-white p-6 shadow-xl">
+                        <i class="fas fa-tooth text-blue-600 text-9xl"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="py-16 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-800 mb-4">من نحن</h2>
+                <div class="w-24 h-1 bg-blue-600 mx-auto mb-6"></div>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">عيادة جذور لطب الأسنان - مركز متخصص لجميع خدمات طب الأسنان في العيزرية</p>
+            </div>
+            
+            <div class="flex flex-col md:flex-row">
+                <div class="md:w-1/2 pr-0 md:pr-10 mb-8 md:mb-0">
+                    <h3 class="text-2xl font-bold text-gray-800 mb-4">عيادة جذور لطب الأسنان</h3>
+                    <p class="text-lg text-gray-600 mb-4">تأسست عيادة جذور لطب الأسنان بهدف تقديم أفضل خدمات طب الأسنان في العيزرية والقدس. نسعى لخدمة مرضانا بتوفير رعاية متميزة باستخدام أحدث التقنيات والمعدات الطبية.</p>
+                    <p class="text-lg text-gray-600 mb-4">فريق عملنا من أطباء متخصصين ذوي خبرة عالية في مختلف مجالات طب الأسنان، يقدمون أفضل خدمة للمرضى في بيئة مريحة وودية.</p>
+                </div>
+                <div class="md:w-1/2">
+                    <h3 class="text-2xl font-bold text-gray-800 mb-4">لماذا تختار عيادة جذور؟</h3>
+                    <ul class="space-y-4">
+                        <li class="flex items-start">
+                            <i class="fas fa-check-circle text-green-500 text-xl mt-1 ml-3"></i>
+                            <span class="text-lg text-gray-600">نقدم خدمات طبية شاملة لجميع مشاكل الأسنان</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-check-circle text-green-500 text-xl mt-1 ml-3"></i>
+                            <span class="text-lg text-gray-600">أسعار مناسبة وخيارات دفع متعددة</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-check-circle text-green-500 text-xl mt-1 ml-3"></i>
+                            <span class="text-lg text-gray-600">عروض وتخفيضات دورية على الخدمات المختلفة</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-check-circle text-green-500 text-xl mt-1 ml-3"></i>
+                            <span class="text-lg text-gray-600">أحدث التقنيات في مجال علاجات الأسنان التجميلية</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-check-circle text-green-500 text-xl mt-1 ml-3"></i>
+                            <span class="text-lg text-gray-600">موقع متميز وسهولة الوصول في العيزرية بجانب مديرية الصحة</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-check-circle text-green-500 text-xl mt-1 ml-3"></i>
+                            <span class="text-lg text-gray-600">متابعة مستمرة ورعاية دائمة للمرضى</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mt-16">
+                <div class="bg-blue-50 p-6 rounded-lg shadow-md text-center">
+                    <div class="w-20 h-20 gradient-bg rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-user-md text-white text-3xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 mb-2">أطباء متخصصون</h3>
+                    <p class="text-gray-600">فريق من الأطباء ذوي الخبرة والكفاءة العالية</p>
+                </div>
+                <div class="bg-blue-50 p-6 rounded-lg shadow-md text-center">
+                    <div class="w-20 h-20 gradient-bg rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-cog text-white text-3xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 mb-2">تقنيات حديثة</h3>
+                    <p class="text-gray-600">أحدث المعدات والتقنيات في مجال طب الأسنان</p>
+                </div>
+                <div class="bg-blue-50 p-6 rounded-lg shadow-md text-center">
+                    <div class="w-20 h-20 gradient-bg rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-user text-white text-3xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 mb-2">رعاية شخصية</h3>
+                    <p class="text-gray-600">نقدم لكل مريض الاهتمام والعناية الخاصة</p>
+                </div>
+                <div class="bg-blue-50 p-6 rounded-lg shadow-md text-center">
+                    <div class="w-20 h-20 gradient-bg rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="far fa-clock text-white text-3xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 mb-2">مواعيد مرنة</h3>
+                    <p class="text-gray-600">نوفر مواعيد تناسب جميع الظروف</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="py-16 bg-gray-50">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-800 mb-4">خدماتنا</h2>
+                <div class="w-24 h-1 bg-blue-600 mx-auto mb-6"></div>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">نقدم مجموعة شاملة من خدمات طب الأسنان العلاجية والوقائية والتجميلية</p>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- Service 1 -->
+                <div class="service-card bg-white rounded-lg shadow-md p-6 transition duration-300">
+                    <div class="w-16 h-16 gradient-bg rounded-lg flex items-center justify-center service-icon mb-4">
+                        <i class="fas fa-search-plus text-white text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 mb-3">الفحص والتشخيص</h3>
+                    <p class="text-gray-600 mb-4">فحص شامل للأسنان وتقييم صحة الفم واللثة وتشخيص المشكلات باستخدام أحدث التقنيات والأجهزة.</p>
+                    <ul class="text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>فحص كامل للأسنان</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>صور أشعة تشخيصية</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>تحديد خطة العلاج المناسبة</span>
+                        </li>
+                    </ul>
+                </div>
+                
+                <!-- Service 2 -->
+                <div class="service-card bg-white rounded-lg shadow-md p-6 transition duration-300">
+                    <div class="w-16 h-16 gradient-bg rounded-lg flex items-center justify-center service-icon mb-4">
+                        <i class="fas fa-teeth text-white text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 mb-3">علاج تسوس الأسنان</h3>
+                    <p class="text-gray-600 mb-4">معالجة تسوس الأسنان بطرق حديثة وتقنيات متطورة لضمان نتائج فعالة.</p>
+                    <ul class="text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>حشوات تجميلية</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>علاج عصب الأسنان</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>حشوات الجذور</span>
+                        </li>
+                    </ul>
+                </div>
+                
+                <!-- Service 3 -->
+                <div class="service-card bg-white rounded-lg shadow-md p-6 transition duration-300">
+                    <div class="w-16 h-16 gradient-bg rounded-lg flex items-center justify-center service-icon mb-4">
+                        <i class="fas fa-crown text-white text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 mb-3">تركيبات الأسنان</h3>
+                    <p class="text-gray-600 mb-4">تركيبات أسنان متنوعة تجمع بين الوظيفة والجمال لاستعادة مظهر أسنانك.</p>
+                    <ul class="text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>تيجان ومنصات للأسنان</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>جسور متحركة وثابتة</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>أطقم أسنان كاملة وجزئية</span>
+                        </li>
+                    </ul>
+                </div>
+                
+                <!-- Service 4 -->
+                <div class="service-card bg-white rounded-lg shadow-md p-6 transition duration-300">
+                    <div class="w-16 h-16 gradient-bg rounded-lg flex items-center justify-center service-icon mb-4">
+                        <i class="fas fa-paint-brush text-white text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 mb-3">تجميل الأسنان</h3>
+                    <p class="text-gray-600 mb-4">خدمات تجميل الأسنان لتحسين مظهر ابتسامتك وزيادة ثقتك بنفسك.</p>
+                    <ul class="text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>تبييض الأسنان</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>تلبيس الأسنان</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>تقويم الأسنان التجميلي</span>
+                        </li>
+                    </ul>
+                </div>
+                
+                <!-- Service 5 -->
+                <div class="service-card bg-white rounded-lg shadow-md p-6 transition duration-300">
+                    <div class="w-16 h-16 gradient-bg rounded-lg flex items-center justify-center service-icon mb-4">
+                        <i class="fas fa-pills text-white text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 mb-3">علاج اللثة</h3>
+                    <p class="text-gray-600 mb-4">علاج شامل لمشاكل اللثة والوقاية منها للحفاظ على صحة الفم واللثة.</p>
+                    <ul class="text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>علاج التهابات اللثة</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>تنظيف جير الأسنان</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>جراحات اللثة</span>
+                        </li>
+                    </ul>
+                </div>
+                
+                <!-- Service 6 -->
+                <div class="service-card bg-white rounded-lg shadow-md p-6 transition duration-300">
+                    <div class="w-16 h-16 gradient-bg rounded-lg flex items-center justify-center service-icon mb-4">
+                        <i class="fas fa-teeth-open text-white text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold text-gray-800 mb-3">زراعة الأسنان</h3>
+                    <p class="text-gray-600 mb-4">زراعة أسنان بأحدث التقنيات العالمية واستخدامها كبديل للأسنان المفقودة بشكل طبيعي.</p>
+                    <ul class="text-gray-600 space-y-2">
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>زراعة سن واحد</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>زراعة كامل الأسنان</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-circle text-blue-500 text-xs mt-2 ml-2"></i>
+                            <span>تقنية All-on-4</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Appointment Section -->
+    <section id="appointment" class="py-16 gradient-bg">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-white mb-4">حجز موعد</h2>
+                <div class="w-24 h-1 bg-white mx-auto mb-6"></div>
+                <p class="text-xl text-white max-w-3xl mx-auto">يمكنكم حجز موعد بسهولة من خلال النموذج التالي</p>
+            </div>
+            
+            <div class="bg-white rounded-lg shadow-lg p-8 max-w-3xl mx-auto">
+                <form class="appointment-form" id="appointmentForm">
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+                        <div>
+                            <label for="name" class="block text-gray-700 font-medium mb-2">الاسم الكامل</label>
+                            <input type="text" id="name" name="name" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" required="">
+                        </div>
+                        <div>
+                            <label for="phone" class="block text-gray-700 font-medium mb-2">رقم الهاتف</label>
+                            <input type="tel" id="phone" name="phone" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" required="">
+                        </div>
+                    </div>
+                    
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+                        <div>
+                            <label for="date" class="block text-gray-700 font-medium mb-2">تاريخ الموعد</label>
+                            <input type="date" id="date" name="date" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" required="">
+                        </div>
+                        <div>
+                            <label for="time" class="block text-gray-700 font-medium mb-2">وقت الموعد</label>
+                            <select id="time" name="time" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" required="">
+                                <option value="" disabled="" selected="">اختر الوقت المناسب</option>
+                                <option value="09:00">09:00 صباحاً</option>
+                                <option value="10:00">10:00 صباحاً</option>
+                                <option value="11:00">11:00 صباحاً</option>
+                                <option value="12:00">12:00 ظهراً</option>
+                                <option value="13:00">01:00 مساءً</option>
+                                <option value="14:00">02:00 مساءً</option>
+                                <option value="15:00">03:00 مساءً</option>
+                                <option value="16:00">04:00 مساءً</option>
+                                <option value="17:00">05:00 مساءً</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <div class="mb-6">
+                        <label for="service" class="block text-gray-700 font-medium mb-2">نوع الخدمة</label>
+                        <select id="service" name="service" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" required="">
+                            <option value="" disabled="" selected="">اختر الخدمة المطلوبة</option>
+                            <option value="consultation">استشارة وفحص</option>
+                            <option value="cleaning">تنظيف الأسنان</option>
+                            <option value="fillings">حشوات الأسنان</option>
+                            <option value="root-canal">علاج جذور</option>
+                            <option value="crown">تركيبات (تيجان وجسور)</option>
+                            <option value="whitening">تبييض الأسنان</option>
+                            <option value="implants">زراعة الأسنان</option>
+                            <option value="braces">تقويم الأسنان</option>
+                            <option value="gum-treatment">علاج اللثة</option>
+                            <option value="other">خدمات أخرى</option>
+                        </select>
+                    </div>
+                    
+                    <div class="mb-6">
+                        <label for="notes" class="block text-gray-700 font-medium mb-2">ملاحظات إضافية</label>
+                        <textarea id="notes" name="notes" rows="3" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" style="height: 128px;"></textarea>
+                    </div>
+                    
+                    <div>
+                        <button type="submit" class="w-full bg-blue-600 text-white font-bold py-3 px-6 rounded-md hover:bg-blue-700 transition duration-300">تأكيد الحجز</button>
+                    </div>
+                </form>
+                <div id="confirmation" class="mt-6 p-4 bg-green-50 text-green-700 border border-green-200 rounded-md hidden">
+                    <i class="fas fa-check-circle text-green-500 ml-2"></i>
+                    <span>تم تأكيد الحجز بنجاح! سنتواصل معك قريبًا لتأكيد موعدك.</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="py-16 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-800 mb-4">اتصل بنا</h2>
+                <div class="w-24 h-1 bg-blue-600 mx-auto mb-6"></div>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">يمكنكم التواصل معنا مباشرة أو زيارتنا في العيادة</p>
+            </div>
+            
+            <div class="flex flex-col md:flex-row">
+                <div class="md:w-1/2 mb-8 md:mb-0">
+                    <div class="bg-gray-50 p-8 rounded-lg shadow-md">
+                        <h3 class="text-2xl font-bold text-gray-800 mb-6">معلومات الاتصال</h3>
+                        
+                        <div class="flex items-start mb-6">
+                            <div class="w-12 h-12 gradient-bg rounded-full flex items-center justify-center ml-4 flex-shrink-0">
+                                <i class="fas fa-map-marker-alt text-white text-xl"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-lg text-gray-800 mb-1">العنوان</h4>
+                                <p class="text-gray-600">العيزرية، بجانب مديرية الصحة، القدس، فلسطين</p>
+                            </div>
+                        </div>
+                        
+                        <div class="flex items-start mb-6">
+                            <div class="w-12 h-12 gradient-bg rounded-full flex items-center justify-center ml-4 flex-shrink-0">
+                                <i class="fas fa-phone-alt text-white text-xl"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-lg text-gray-800 mb-1">رقم الهاتف</h4>
+                                <p class="text-gray-600">0597145474</p>
+                            </div>
+                        </div>
+                        
+                        <div class="flex items-start mb-6">
+                            <div class="w-12 h-12 gradient-bg rounded-full flex items-center justify-center ml-4 flex-shrink-0">
+                                <i class="far fa-clock text-white text-xl"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-lg text-gray-800 mb-1">ساعات العمل</h4>
+                                <p class="text-gray-600">الأحد - الخميس: 9:00 صباحاً - 6:00 مساءً</p>
+                                <p class="text-gray-600">السبت: 10:00 صباحاً - 4:00 مساءً</p>
+                                <p class="text-gray-600">الجمعة: مغلق</p>
+                            </div>
+                        </div>
+                        
+                        <div class="flex items-start">
+                            <div class="w-12 h-12 gradient-bg rounded-full flex items-center justify-center ml-4 flex-shrink-0">
+                                <i class="fas fa-comment-alt text-white text-xl"></i>
+                            </div>
+                            <div>
+                                <h4 class="font-bold text-lg text-gray-800 mb-1">تواصل معنا</h4>
+                                <div class="flex space-x-4 space-x-reverse mt-2">
+                                    <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#" class="w-10 h-10 bg-blue-600 rounded-full flex items-center justify-center text-white hover:bg-blue-700 transition duration-300">
+                                        <i class="fab fa-facebook-f"></i>
+                                    </a>
+                                    <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#" class="w-10 h-10 bg-green-600 rounded-full flex items-center justify-center text-white hover:bg-green-700 transition duration-300">
+                                        <i class="fab fa-whatsapp"></i>
+                                    </a>
+                                    <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#" class="w-10 h-10 bg-red-600 rounded-full flex items-center justify-center text-white hover:bg-red-700 transition duration-300">
+                                        <i class="fab fa-instagram"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="md:w-1/2 md:pr-0 md:pl-8">
+                    <div class="bg-gray-50 p-8 rounded-lg shadow-md h-full flex flex-col">
+                        <h3 class="text-2xl font-bold text-gray-800 mb-6">ارسل رسالة</h3>
+                        
+                        <form id="contactForm" class="flex-1 flex flex-col">
+                            <div class="mb-4">
+                                <label for="contact-name" class="block text-gray-700 font-medium mb-2">الاسم</label>
+                                <input type="text" id="contact-name" name="contact-name" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" required="">
+                            </div>
+                            
+                            <div class="mb-4">
+                                <label for="contact-phone" class="block text-gray-700 font-medium mb-2">رقم الهاتف</label>
+                                <input type="tel" id="contact-phone" name="contact-phone" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" required="">
+                            </div>
+                            
+                            <div class="mb-4">
+                                <label for="contact-subject" class="block text-gray-700 font-medium mb-2">الموضوع</label>
+                                <input type="text" id="contact-subject" name="contact-subject" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" required="">
+                            </div>
+                            
+                            <div class="mb-4 flex-1">
+                                <label for="contact-message" class="block text-gray-700 font-medium mb-2">الرسالة</label>
+                                <textarea id="contact-message" name="contact-message" rows="4" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 h-full min-h-[100px]" required=""></textarea>
+                            </div>
+                            
+                            <div class="mt-auto">
+                                <button type="submit" class="w-full bg-blue-600 text-white font-bold py-3 px-6 rounded-md hover:bg-blue-700 transition duration-300">إرسال الرسالة</button>
+                            </div>
+                        </form>
+                        <div id="contact-confirmation" class="hidden mt-4 p-3 bg-green-50 text-green-700 border border-green-200 rounded-md">
+                            <i class="fas fa-check-circle text-green-500 ml-2"></i>
+                            <span>تم إرسال رسالتك بنجاح! سنقوم بالرد عليك في أقرب وقت.</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-wrap">
+                <div class="w-full md:w-1/3 mb-8 md:mb-0">
+                    <div class="flex items-center mb-4">
+                        <i class="fas fa-tooth text-3xl text-blue-400 ml-3"></i>
+                        <h2 class="text-2xl font-bold">عيادة جذور لطب الأسنان</h2>
+                    </div>
+                    <p class="text-gray-400 mb-6 leading-relaxed">نقدم أفضل خدمات طب الأسنان في العيزرية بأيدي أمهر الأطباء وأحدث التقنيات لنمنحك ابتسامة جميلة تدوم مدى الحياة.</p>
+                    <div class="flex space-x-4 space-x-reverse">
+                        <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#" class="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center text-white hover:bg-blue-600 transition duration-300">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#" class="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center text-white hover:bg-green-600 transition duration-300">
+                            <i class="fab fa-whatsapp"></i>
+                        </a>
+                        <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#" class="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center text-white hover:bg-red-600 transition duration-300">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="w-full md:w-1/3 mb-8 md:mb-0">
+                    <h3 class="text-xl font-bold mb-4">روابط سريعة</h3>
+                    <ul class="space-y-3">
+                        <li>
+                            <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#home" class="text-gray-400 hover:text-white transition duration-300">الرئيسية</a>
+                        </li>
+                        <li>
+                            <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#about" class="text-gray-400 hover:text-white transition duration-300">من نحن</a>
+                        </li>
+                        <li>
+                            <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#services" class="text-gray-400 hover:text-white transition duration-300">خدماتنا</a>
+                        </li>
+                        <li>
+                            <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#appointment" class="text-gray-400 hover:text-white transition duration-300">حجز موعد</a>
+                        </li>
+                        <li>
+                            <a href="https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html#contact" class="text-gray-400 hover:text-white transition duration-300">اتصل بنا</a>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="w-full md:w-1/3">
+                    <h3 class="text-xl font-bold mb-4">معلومات الاتصال</h3>
+                    <ul class="space-y-3">
+                        <li class="flex items-start">
+                            <i class="fas fa-map-marker-alt text-blue-400 text-lg mt-1 ml-3"></i>
+                            <span class="text-gray-400">العيزرية، بجانب مديرية الصحة، القدس، فلسطين</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="fas fa-phone-alt text-blue-400 text-lg mt-1 ml-3"></i>
+                            <span class="text-gray-400">0597145474</span>
+                        </li>
+                        <li class="flex items-start">
+                            <i class="far fa-clock text-blue-400 text-lg mt-1 ml-3"></i>
+                            <span class="text-gray-400">الأحد - الخميس: 9:00 صباحاً - 6:00 مساءً</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="border-t border-gray-800 mt-12 pt-8 text-center">
+                <p class="text-gray-500">جميع الحقوق محفوظة © 2025 - عيادة جذور لطب الأسنان</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Mobile Menu Toggle
+        const mobileMenuButton = document.getElementById('mobile-menu-button');
+        const mobileMenu = document.getElementById('mobile-menu');
+        
+        mobileMenuButton.addEventListener('click', () => {
+            mobileMenu.classList.toggle('hidden');
+        });
+        
+        // Appointment Form Submission
+        const appointmentForm = document.getElementById('appointmentForm');
+        const confirmation = document.getElementById('confirmation');
+        
+        appointmentForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            // Here you would typically send the form data to a server
+            // For demonstration, we'll just show the confirmation message
+            appointmentForm.reset();
+            confirmation.classList.remove('hidden');
+            setTimeout(() => {
+                confirmation.classList.add('hidden');
+            }, 5000);
+        });
+        
+        // Contact Form Submission
+        const contactForm = document.getElementById('contactForm');
+        const contactConfirmation = document.getElementById('contact-confirmation');
+        
+        contactForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            // Here you would typically send the form data to a server
+            // For demonstration, we'll just show the confirmation message
+            contactForm.reset();
+            contactConfirmation.classList.remove('hidden');
+            setTimeout(() => {
+                contactConfirmation.classList.add('hidden');
+            }, 5000);
+        });
+        
+        // Smooth scrolling for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                
+                mobileMenu.classList.add('hidden');
+                
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+
+
+    <script id="html_badge_script1">
+        window.__genspark_remove_badge_link = "https://www.genspark.ai/api/html_badge/" +
+            "remove_badge?token=To%2FBnjzloZ3UfQdcSaYfDic%2BMRQBPWtPPv0NCDgZsov8C9MUKzDOFaAV9miB35S%2FL7IPOq9oHyoj34jUFBMhF%2FTOW8REFPU24bz8yseBoXQUrVV6MEAi63GWnBcc2H%2BZc7kbl%2BtsQcIhcCYIZMB0AnQy3XwM%2BViTv0gMacslm8%2B%2F8uj9KK1GaqFnMN4Tso3q11cM9%2BQBWcxMF9lh8Nz%2Bb5LjGWJvY8u7Vfyzr83vcZwenrsACWbkvkHr1kKUCK%2FZSzEnNxQxNMEsNLUAcnfWReTp%2BW8D3X%2BMYM%2BVYheGTZt8utVoM6%2BL%2FAjAaYBGIG7ruHmZzktHpUYTmcA9067KC5Vg3BQcbZ9rnQFxnShkdPLA0vIQKiXA%2FDgJhsdcg%2BREewYxsSwCUuXzhplzsN631uUu6EkLMyn9QtL0l5%2Bvz7gNj7ltkSsH0QB8UMNfmG3hrukGOCulvYmwCYAxVmVwPzWtHZ%2F%2Bo4LDd0rlzcPTS0VWZ%2FAn50Lnbe7Yhq2W%2FVM%2Bkhdqcrkm9w1LPJ4M4qHHXwGgw5xgJTaQN%2FCQCAIFkMhYUEVsI9FA5tBKYK4Kf2QON6zVFipl%2FVd5BSz6v8Fu4aclmfQuI%2FsewYCvlbQhHXw%2ByRQgGUXuJvaXm1T010w1u%2BXYYjjiK3%2FcsoqAz7h22QTaUUXaW0qD82Ap4PVf1qE%3D";
+        window.__genspark_locale = "en-US";
+        window.__genspark_token = "To/BnjzloZ3UfQdcSaYfDic+MRQBPWtPPv0NCDgZsov8C9MUKzDOFaAV9miB35S/L7IPOq9oHyoj34jUFBMhF/TOW8REFPU24bz8yseBoXQUrVV6MEAi63GWnBcc2H+Zc7kbl+tsQcIhcCYIZMB0AnQy3XwM+ViTv0gMacslm8+/8uj9KK1GaqFnMN4Tso3q11cM9+QBWcxMF9lh8Nz+b5LjGWJvY8u7Vfyzr83vcZwenrsACWbkvkHr1kKUCK/ZSzEnNxQxNMEsNLUAcnfWReTp+W8D3X+MYM+VYheGTZt8utVoM6+L/AjAaYBGIG7ruHmZzktHpUYTmcA9067KC5Vg3BQcbZ9rnQFxnShkdPLA0vIQKiXA/DgJhsdcg+REewYxsSwCUuXzhplzsN631uUu6EkLMyn9QtL0l5+vz7gNj7ltkSsH0QB8UMNfmG3hrukGOCulvYmwCYAxVmVwPzWtHZ/+o4LDd0rlzcPTS0VWZ/An50Lnbe7Yhq2W/VM+khdqcrkm9w1LPJ4M4qHHXwGgw5xgJTaQN/CQCAIFkMhYUEVsI9FA5tBKYK4Kf2QON6zVFipl/Vd5BSz6v8Fu4aclmfQuI/sewYCvlbQhHXw+yRQgGUXuJvaXm1T010w1u+XYYjjiK3/csoqAz7h22QTaUUXaW0qD82Ap4PVf1qE=";
+    </script>
+    
+        <script id="html_badge_script2" src="./عيادة جذور لطب الأسنان _ احجز موعدك الآن_files/html_badge.js.download"></script><button class="genspark-badge-button"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" fill="none">
+<path d="M11.3412 0H2.65879C1.19038 0 0 1.19038 0 2.65879V11.3412C0 12.8096 1.19038 14 2.65879 14H11.3412C12.8096 14 14 12.8096 14 11.3412V2.65879C14 1.19038 12.8096 0 11.3412 0Z" fill="white"></path>
+<path d="M11.7403 10.7031H2.29243C2.09641 10.7031 1.9375 10.862 1.9375 11.0581V11.8033C1.9375 11.9993 2.09641 12.1582 2.29243 12.1582H11.7403C11.9363 12.1582 12.0952 11.9993 12.0952 11.8033V11.0581C12.0952 10.862 11.9363 10.7031 11.7403 10.7031Z" fill="#232425"></path>
+<path d="M5.09178 9.18166C5.03494 9.18166 4.98695 9.13998 4.97811 9.08314C4.60803 6.63655 4.34025 6.42056 1.91134 6.05427C1.83682 6.0429 1.78125 5.97848 1.78125 5.9027C1.78125 5.82691 1.83682 5.7625 1.91134 5.75113C4.32762 5.3861 4.54235 5.17011 4.90738 2.7551C4.91874 2.68058 4.98316 2.625 5.05894 2.625C5.13473 2.625 5.19914 2.68058 5.21051 2.7551C5.57554 5.17011 5.79153 5.3861 8.20655 5.75113C8.28107 5.7625 8.33664 5.82691 8.33664 5.9027C8.33664 5.97848 8.28107 6.0429 8.20655 6.05427C5.78017 6.42056 5.57302 6.63655 5.20546 9.08314C5.19662 9.13871 5.14862 9.18166 5.09178 9.18166Z" fill="#232425"></path>
+<path d="M9.70174 5.949C9.66637 5.949 9.63606 5.92248 9.63101 5.88711C9.39986 4.35878 9.23188 4.22363 7.71492 3.99501C7.66818 3.98743 7.63281 3.94828 7.63281 3.90028C7.63281 3.85355 7.66692 3.81313 7.71492 3.80555C9.2243 3.5782 9.35945 3.44305 9.5868 1.93366C9.59438 1.88693 9.63354 1.85156 9.68153 1.85156C9.72827 1.85156 9.76869 1.88567 9.77627 1.93366C10.0036 3.44305 10.1388 3.5782 11.6482 3.80555C11.6949 3.81313 11.7302 3.85228 11.7302 3.90028C11.7302 3.94702 11.6962 3.98743 11.6482 3.99501C10.1325 4.22363 10.0024 4.35878 9.77247 5.88711C9.76742 5.92248 9.73711 5.949 9.70174 5.949Z" fill="#232425"></path>
+<path d="M9.69114 9.76325C9.6684 9.76325 9.64946 9.74683 9.64567 9.7241C9.49915 8.75152 9.39179 8.66563 8.42679 8.52038C8.39648 8.51533 8.375 8.49007 8.375 8.45975C8.375 8.42944 8.39648 8.40418 8.42679 8.39912C9.38673 8.25387 9.47262 8.16798 9.61788 7.20804C9.62293 7.17772 9.64819 7.15625 9.6785 7.15625C9.70882 7.15625 9.73408 7.17772 9.73913 7.20804C9.88439 8.16798 9.97028 8.25387 10.9302 8.39912C10.9605 8.40418 10.982 8.42944 10.982 8.45975C10.982 8.49007 10.9605 8.51533 10.9302 8.52038C9.96523 8.66563 9.88312 8.75152 9.73661 9.7241C9.73282 9.74683 9.71387 9.76325 9.69114 9.76325Z" fill="#232425"></path>
+</svg> Made with Genspark</button><div class="genspark-modal" style="display: none;">
+    <div class="genspark-modal-content">
+      <button class="genspark-close"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14" fill="none">
+<path d="M11 3L3 11M3 3L11 11" stroke="#232425" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg></button>
+      <h3 class="genspark-title">This page was created by users with AI.</h3>
+      <a class="genspark-report" href="mailto:support@genspark.ai?subject=Report%20inappropriate%20content&amp;body=Current%20URL:%20https://page1.genspark.site/page/toolu_01L5Gi2tgn8GnTRw34c6RE2x/%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9_%D8%AC%D8%B0%D9%88%D8%B1_%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%A3%D8%B3%D9%86%D8%A7%D9%86_%D9%85%D8%AD%D8%AF%D8%AB.html">Report inappropriate content.</a>
+      <p class="genspark-info">Page owner with Plus Plan can remove badge.</p>
+      <div class="genspark-buttons">
+        <button class="genspark-remove-btn">Remove Badge</button>
+        <button class="genspark-go-btn">Go to Genspark</button>
+      </div>
+    </div>
+  </div>
+        </body></html>
